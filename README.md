@@ -2,4 +2,4 @@
 ======
 Chrome Extension (Development Phase)
 
-![Demo](https://postimg.org/image/v81fgdnq3/)
+![Demo](https://s1.postimg.org/rofhqkl0f/demo.gif)
